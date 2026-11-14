@@ -1,4 +1,4 @@
-# Czech Economic Cycle Simulation (Samuelson–Hicks Model)
+# Economic Cycle Simulation (Samuelson–Hicks Model)
 
 A C program that simulates the national income of the Czech Republic from 2010 to 2023 using the Samuelson–Hicks multiplier–accelerator model. It runs on real Eurostat data, tests several parameter combinations, and checks each simulated income series against actual GDP with the Pearson correlation coefficient.
 
@@ -60,7 +60,3 @@ src/
 data/         # Eurostat input data
 results/      # Simulation output (generated)
 ```
-
-## Author
-
-Daria Kinash
